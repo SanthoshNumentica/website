@@ -1,6 +1,6 @@
-  =>  Template Name    : Startup - Startup Website Template
+  =>  Template Name    : Entity - Entity Website Template
 
-  =>  Template Link    : https://htmlcodex.com/startup-website-template
+  =>  Template Link    : https://htmlcodex.com/Entity-website-template
 
   =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
