@@ -1,4 +1,4 @@
-  =>  Template Name    : Entity - Entity Website Template
+  =>  Template Name    : Entity
 
   =>  Template Link    : https://htmlcodex.com/Entity-website-template
 
